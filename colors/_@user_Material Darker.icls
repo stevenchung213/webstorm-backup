@@ -4,7 +4,7 @@
     <property name="created">2018-09-07T23:25:11</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.2.3.0.0</property>
-    <property name="modified">2019-06-09T22:21:26</property>
+    <property name="modified">2019-06-20T18:55:19</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
@@ -1414,12 +1414,17 @@
     </option>
     <option name="JS.REGEXP">
       <value>
-        <option name="FOREGROUND" value="c3e88d" />
+        <option name="FOREGROUND" value="87e850" />
       </value>
     </option>
     <option name="JS.STRING">
       <value>
         <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="JS.VALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="87e850" />
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME">
