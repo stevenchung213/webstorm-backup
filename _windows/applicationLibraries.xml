@@ -1,5 +1,13 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/enzyme" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/enzyme-adapter-react-16" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/express" type="javaScript">
       <CLASSES />
       <SOURCES />
