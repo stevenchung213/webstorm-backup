@@ -7,5 +7,9 @@
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
-  <component name="LiveEditOptions" chromeAutoDelay="50" chromeUpdateApp="true" chromeUpdateOnChanges="true" />
+  <component name="LiveEditOptions" chromeAutoDelay="50" useJBChromeExtension="true" />
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
 </application>
