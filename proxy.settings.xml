@@ -1,5 +1,0 @@
-<application>
-  <component name="HttpConfigurable">
-    <option name="PAC_URL" value="https://plugins.jetbrains.com/" />
-  </component>
-</application>
