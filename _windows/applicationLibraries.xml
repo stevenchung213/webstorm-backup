@@ -28,6 +28,10 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/react-router-dom" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/styled-components" type="javaScript">
       <CLASSES />
       <SOURCES />
