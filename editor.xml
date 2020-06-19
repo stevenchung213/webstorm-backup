@@ -7,6 +7,7 @@
     <option name="SOFT_WRAP_FILE_MASKS" value="*" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="TOOLTIPS_DELAY_MS" value="75" />
   </component>
   <component name="LiveEditOptions" chromeAutoDelay="50" useJBChromeExtension="true" />
   <component name="TodoConfiguration">
