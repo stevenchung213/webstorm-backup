@@ -4,7 +4,7 @@
     <property name="created">2018-09-07T23:25:11</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.2.3.0.0</property>
-    <property name="modified">2020-06-19T14:17:35</property>
+    <property name="modified">2020-06-19T17:38:02</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
@@ -1376,6 +1376,12 @@
         <option name="FOREGROUND" value="f78c6c" />
       </value>
     </option>
+    <option name="JS.CONSOLE">
+      <value>
+        <option name="FOREGROUND" value="78ea5e" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="JS.DECORATOR">
       <value>
         <option name="FOREGROUND" value="82aaff" />
@@ -1415,6 +1421,12 @@
     <option name="JS.LOCAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="e8c693" />
+      </value>
+    </option>
+    <option name="JS.MODULE_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="a5eab0" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JS.NULL_UNDEFINED">
