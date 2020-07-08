@@ -1,0 +1,5 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="yarn" value="C:/Program Files (x86)/Yarn/bin" />
+  </component>
+</application>
