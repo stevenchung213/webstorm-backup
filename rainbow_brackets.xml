@@ -1,6 +1,6 @@
 <application>
   <component name="RainbowSettings">
-    <option name="numberOfColors" value="6" />
+    <option name="numberOfColors" value="8" />
     <option name="useColorGenerator" value="true" />
     <option name="version" value="6.9.1" />
   </component>
