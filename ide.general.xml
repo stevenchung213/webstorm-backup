@@ -1,10 +1,12 @@
 <application>
   <component name="GeneralSettings">
+    <option name="browserPath" value="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" />
     <option name="confirmExit" value="false" />
     <option name="confirmOpenNewProject2" value="0" />
     <option name="defaultProjectDirectory" value="C:\Users\steve\Desktop\" />
     <option name="processCloseConfirmation" value="TERMINATE" />
     <option name="showTipsOnStartup" value="false" />
+    <option name="useDefaultBrowser" value="false" />
     <option name="useSafeWrite" value="false" />
   </component>
   <component name="Registry">
