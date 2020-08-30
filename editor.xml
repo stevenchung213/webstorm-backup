@@ -8,6 +8,7 @@
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="TOOLTIPS_DELAY_MS" value="75" />
+    <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
   </component>
   <component name="LiveEditOptions" chromeAutoDelay="50" chromeUpdateJSOnChanges="true" nodeAutoDelay="400" nodeUpdateOnChanges="true" updateFilesToCompile="true" useJBChromeExtension="true" />
   <component name="TodoConfiguration">
