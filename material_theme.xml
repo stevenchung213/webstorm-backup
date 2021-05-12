@@ -2,6 +2,7 @@
   <component name="MaterialThemeConfig">
     <option name="contrastMode" value="true" />
     <option name="highContrast" value="true" />
+    <option name="premium" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="darkTitleBar" value="true" />
     <option name="isContrastMode" value="true" />
@@ -14,6 +15,6 @@
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="CUSTOM" />
     <option name="userId" value="2a467185:165b7db1256:-8000" />
-    <option name="version" value="6.3.3" />
+    <option name="version" value="6.4.1" />
   </component>
 </application>
