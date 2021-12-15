@@ -1,6 +1,6 @@
 <application>
   <component name="GeneralSettings">
-    <option name="browserPath" value="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" />
+    <option name="browserPath" value="C:\Program Files\Google\Chrome\Application\chrome.exe" />
     <option name="confirmExit" value="false" />
     <option name="confirmOpenNewProject2" value="0" />
     <option name="defaultProjectDirectory" value="C:\Users\steve\Desktop\" />
