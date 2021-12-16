@@ -3,10 +3,11 @@
     <property name="created">2019-07-02T18:57:50</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.1.3.0.0</property>
-    <property name="modified">2021-09-10T21:38:21</property>
+    <property name="modified">2021-12-15T16:26:34</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
+    <option name="CONSOLE_BACKGROUND_KEY" value="0" />
     <option name="FILESTATUS_ADDED" value="c3e887" />
     <option name="FILESTATUS_COPIED" value="c3e88d" />
     <option name="FILESTATUS_DELETED" value="f77669" />
@@ -27,5 +28,39 @@
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_addedOutside" value="c3e88d" />
     <option name="FILESTATUS_modifiedOutside" value="82aaff" />
+    <option name="GUTTER_BACKGROUND" value="0" />
+    <option name="LINE_NUMBERS_COLOR" value="cecece" />
+    <option name="SELECTION_BACKGROUND" value="686868" />
   </colors>
+  <attributes>
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
+      <value>
+        <option name="BACKGROUND" value="5e5e5e" />
+      </value>
+    </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="BACKGROUND" value="0" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
