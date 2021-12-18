@@ -3,7 +3,7 @@
     <property name="created">2019-07-02T18:57:50</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.1.3.0.0</property>
-    <property name="modified">2021-12-17T14:03:10</property>
+    <property name="modified">2021-12-17T17:48:54</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -123,12 +123,12 @@
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="86ff80" />
+        <option name="FOREGROUND" value="9ce79a" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="9df79a" />
+        <option name="FOREGROUND" value="9ce79a" />
       </value>
     </option>
     <option name="JS.INTERFACE">
